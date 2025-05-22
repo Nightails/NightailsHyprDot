@@ -7,9 +7,11 @@ Utilities and Apps need to be installed on local setup.
 - [x] Ghostty.
 - [x] Neovim(setup with NvChad).
 - [x] Zed editor.
-- [ ] Status bar: Waybar.
-- [ ] Clipboard utility.
+- [x] Status bar: Waybar.
+- [x] BrightnessCTL(monitor brightness control).
+- [x] Cliphist(clipboard manager).
 - [ ] Notification daemon.
+- [ ] Fish Shell.
 
 ---
 ## Configuration
@@ -18,9 +20,10 @@ Config files and settings.
     - [x] Keybindings.
     - [x] Monitor(this may only applicable to my laptop setup, and require edit from others).
     - [ ] Auto start apps:
+        - [x] Waybar.
         - [ ] Authentication agent.
         - [x] Udiskie(usd mounting utility).
-        - [ ] Clipboard utility.
+        - [x] Clipboard utility.
 - [ ] Waybar configs.
 - [ ] Sddm configs.
 
