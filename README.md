@@ -9,6 +9,7 @@ The scripts currently only support Hyprland installment on Arch Linux. Other dis
 
 ---
 ## Intergrate Apps
+- **Display mananger:** Sddm.
 - **Status bar:** Waybar.
 - **Terminal:** Ghostty.
 - **Web Browser:** Zen.
