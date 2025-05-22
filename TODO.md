@@ -15,11 +15,11 @@ Utilities and Apps need to be installed on local setup.
 ## Configuration
 Config files and settings.
 - [ ] Hyprland configs.
-    - [ ] Keybindings.
-    - [ ] Monitor(this may only applicable to my laptop setup, and require edit from others).
+    - [x] Keybindings.
+    - [x] Monitor(this may only applicable to my laptop setup, and require edit from others).
     - [ ] Auto start apps:
         - [ ] Authentication agent.
-        - [ ] Udiskie(usd mounting utility).
+        - [x] Udiskie(usd mounting utility).
         - [ ] Clipboard utility.
 - [ ] Waybar configs.
 - [ ] Sddm configs.
