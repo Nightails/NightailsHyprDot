@@ -4,7 +4,7 @@
 set -e 
 
 # Set variables
-SOURCE_DIR="$(pwd)/Configs/.config/hypr"
+SOURCE_DIR="$(pwd)/configs/hypr"
 TARGET_DIR="$HOME/.config/hypr"
 
 # Check existing config
