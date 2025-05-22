@@ -11,7 +11,7 @@ Utilities and Apps need to be installed on local setup.
 - [x] BrightnessCTL(monitor brightness control).
 - [x] Cliphist(clipboard manager).
 - [ ] Notification daemon.
-- [ ] Fish Shell.
+- [x] Fish Shell(visit Arch wiki for Fish for more info).
 
 ---
 ## Configuration
