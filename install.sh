@@ -45,6 +45,3 @@ fi
 
 echo "✅ Hyprland config installed to $TARGET_DIR"
 
-# Reloading Hyprland
-hyprctl reload
-
