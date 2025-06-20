@@ -8,9 +8,9 @@ The install script is still a **WORK IN PROGRESS** and reflects my laptop config
 The scripts currently only support Hyprland installment on Arch Linux. Other distros are not supported.
 
 ---
-## Intergrate Apps
-- **Display mananger:** Sddm.
-- **Status bar:** Waybar.
-- **Terminal:** Ghostty.
-- **Web Browser:** Zen.
-- **Text Editor:** NeoVim, Zed Editor (when I need a GUI).
+## Applications
+- **Display manager:** [Sddm](https://github.com/sddm/sddm).
+- **Widget system:** [Astal](https://aylur.github.io/astal/).
+- **Terminal:** [Ghostty](https://ghostty.org/).
+- **Web Browser:** [Zen](https://github.com/zen-browser/desktop).
+- **Text Editor:** [NeoVim](https://github.com/neovim/neovim).
